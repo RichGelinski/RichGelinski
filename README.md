@@ -1,8 +1,11 @@
 ## Hi, My name is Richard Gelinski 👋
 
   <strong> I'm a FrontEnd developer from Brazil </strong>
+  
+  <li> 🌱 I’m currently learning JavaScript </li><br>
+  <li> 📫 How to reach me: <a href="https://www.instagram.com/richardgelinski/">Instagram</a>, <a href="richardgelinski@gmail.com">richardgelinski@gmail.com</a> </li>
 
-**About me**
+## Technologies I use in my day:
 
 <div style="display: inline_block">
   <img align="center" alt="Rich-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
